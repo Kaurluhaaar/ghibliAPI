@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;800&display=swap");
+
+body,
+html {
+	padding: 0;
+	margin: 24px;
+	font-family: "Montserrat", sans-serif;
+    background-color: #051528;
+    color: white;
+}
+
+#poster {
+    width: 500px;
+}
